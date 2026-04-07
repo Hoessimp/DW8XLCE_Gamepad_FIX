@@ -1,6 +1,6 @@
 ## all in one
 Special K + gamepad prompts + zmod + xidi 
-## Ultimate-ASI-Loader
+## Special K
 https://github.com/SpecialKO/SpecialK
 ## gamepad prompts
 https://steamcommunity.com/sharedfiles/filedetails/?id=2082941826
